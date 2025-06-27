@@ -1,7 +1,7 @@
 [project]
 name = "mcp-build-rich-context-ai-apps-with-anthropic"
 version = "0.1.0"
-description = "Add your description here"
+description = "MCP: Build Rich-Context AI Apps with Anthropic"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -9,6 +9,7 @@ dependencies = [
     "anthropic>=0.51.0",
     "arxiv>=2.2.0",
     "mcp>=1.7.1",
+    "nest-asyncio>=1.5.6",
     "pypdf2>=3.0.1",
     "python-dotenv>=1.1.0",
     "typing>=3.10.0.0",
