@@ -8,6 +8,7 @@ dependencies = [
     "ai-custom-utils",
     "anthropic>=0.51.0",
     "arxiv>=2.2.0",
+    "ipython>=9.0.0",
     "mcp>=1.7.1",
     "nest-asyncio>=1.5.6",
     "pypdf2>=3.0.1",
